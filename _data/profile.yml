@@ -38,15 +38,15 @@ education:
   logo: /assets/images/badges/badge_USC_m.png
   position: >-
     M.S. in Electrical and Computer Engineering <br/>
-    Depth Area - Electromagnetics, Optics, Photonics
+    Depth Area - EM, Optics, Photonics
   date: Jan. 2023 - Dec. 2024
 - name: East China University of Science and Technology
   logo: /assets/images/badges/badge_ECUST_b.png
-  position: B.S. in Optoelectronic Information Science and Engineering
+  position: B.S. in Optoelectronic Info. Science and Engineering
   date: Sep. 2018 - Jun. 2022
 - name: NanYang Model High School
   logo: /assets/images/badges/badge_NYM_h.png
-  # position: B.S. in Optoelectronic Information Science and Engineering
+  position: Student
   date: Sep. 2015 - Jun. 2018
 
 experience:
