@@ -6,7 +6,7 @@ pub:            "Nature Communications"
 pub_date:       "2023"
 collection:     publications
 permalink:      /publications/2023-pub-ex1.html
-redirect_to:    "https://caoyizou.github.io/Academic_page_proj/index.html"
+redirect_to:    "https://caoyizou.github.io/Acac_proj_page/0_template.html"
 layout:         default
 
 abstract: >-
