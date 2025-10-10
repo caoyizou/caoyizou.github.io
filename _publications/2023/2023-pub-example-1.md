@@ -6,6 +6,8 @@ pub:            "Nature Communications"
 pub_date:       "2023"
 collection:     publications
 permalink:      /publications/2023-pub-ex1
+layout:         default
+
 abstract: >-
   Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
 cover:          /assets/images/covers/cover1.jpg
