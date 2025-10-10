@@ -35,6 +35,8 @@ plugins:
 # timezone: Asia/Shanghai
 
 collections:
-  - publications
+  publications:
+    output: true  # 每篇论文有独立页面
+    permalink: /:collection/:path/
   - news
   - showcase
