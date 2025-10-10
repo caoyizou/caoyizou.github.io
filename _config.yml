@@ -37,7 +37,7 @@ plugins:
 collections:
   publications:
     output: true  # 每篇论文有独立页面
-    permalink: /:collection/:path/
+    permalink: /:collection/:path.html
   news:
     output: false
   showcase:
