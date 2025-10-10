@@ -5,7 +5,8 @@ selected:       true
 pub:            "Nature Communications"
 pub_date:       "2023"
 collection:     publications
-permalink:      /pub_web/t_h.html
+permalink:      /publications/2023-pub-ex1.html
+redirect_to:    /pub_web/t_h.html
 layout:         default
 
 abstract: >-
