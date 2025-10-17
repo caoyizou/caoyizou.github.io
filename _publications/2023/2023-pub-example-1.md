@@ -1,22 +1,18 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
-date:           2023-01-05 00:01:00 +0800
+title:          "Signal Modulation Automation System for Quantum Magnetometer"
+date:           2022-06-01 00:01:00 +0800
 selected:       true
 pub:            "Nature Communications"
-pub_date:       "2023"
 collection:     publications
-permalink:      /publications/2023-pub-ex1.html
 redirect_to:    "https://caoyizou.github.io/Acac_proj_page/22_1_NVCC.html"
 layout:         default
 
 abstract: >-
-  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
+  In order to directly interact with the operation mechanism behind the experiment, a section of microwave signal source and oscilloscope are programmed and controlled respectively, which contribute to an integrated and automated control system of the Quantum Magnetometer.
 cover:          /assets/images/covers/cover1.jpg
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+- Caoyi Zou*
+
 links:
   Paper: https://www.cell.com
 ---
