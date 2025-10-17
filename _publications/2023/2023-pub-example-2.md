@@ -5,7 +5,7 @@ selected:       false
 pub:            "International Conference on Learning Representations (ICLR)"
 pub_date:       "2023"
 collection:     publications
-redirect_to:    "https://caoyizou.github.io/Acac_proj_page/0_template.html"
+redirect_to:    "https://caoyizou.github.io/Acac_proj_page/21_1_Sch.html"
 layout:         default
 
 semantic_scholar_id: 11ac0b5634a282f1a0da204b98e7473d8b480dfb  # use this to retrieve citation count
