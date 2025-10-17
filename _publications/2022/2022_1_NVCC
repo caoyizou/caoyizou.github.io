@@ -9,7 +9,7 @@ layout:         default
 
 abstract: >-
   In order to directly interact with the operation mechanism behind the experiment, a section of microwave signal source and oscilloscope are programmed and controlled respectively, which contribute to an integrated and automated control system of the Quantum Magnetometer.
-cover:          /assets/images/covers/cover1.jpg
+cover:          /assets/images/covers/Cover_2022_1_NVCC.png
 authors:
 - Caoyi Zou
 
