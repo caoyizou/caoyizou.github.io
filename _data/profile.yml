@@ -6,6 +6,7 @@ navbar_name: "RetrieverZ's Homepage"
 # - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 #   name: Position 1 with logo
 
+# _includes/widgets/profile_card.html
 email: "zoucaoyi@gmail.com"
 # cv_link: link-to-your-cv-file
 gscholar: VlA3bHAAAAAJ  # This is an example, replace it with your own Google Scholar ID
