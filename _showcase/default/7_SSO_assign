@@ -4,20 +4,12 @@ width: 8
 date: 2023-01-22 00:01:00 +1600
 height: 480px
 
-<div class="p-4">
-    <h2>Welcome to Showcase!</h2>
-    <hr />
-    <p>
-        Watch the videos on SSO USC’s YouTube channel, comparing with my parts~
-    </p>
-</div>
-
 images:
-- src: assets/images/5_Misc/SSO/SSO_Assign_Fall24.png
+- src: assets/images/5_Misc/SSO/SSO_Assign_Fall24.jpg
   title: Fall 25
   desc: Check videos on SSO USC youtube channel according to my parts
   link: https://www.youtube.com/@ssousc
-- src: assets/images/5_Misc/SSO/SSO_Assign_Spr25.png
+- src: assets/images/5_Misc/SSO/SSO_Assign_Spr25.jpg
   title: Spring 25
   desc: Check videos on SSO USC youtube channel according to my parts
   link: https://www.youtube.com/@ssousc
