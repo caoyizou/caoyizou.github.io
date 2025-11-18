@@ -1,0 +1,15 @@
+---
+show: true
+width: 3
+date: 2020-01-10 00:01:00 +0800
+group: Horticulture
+---
+<div>
+  <img data-src="{{ 'assets/images/5_Misc/Garnur/5_Succ_germinating.jpg' | relative_url }}" class="lazy w-100 rounded-xl" src="{{ '/assets/images/empty_300x200.png' | relative_url }}" data-toggle="tooltip" data-placement="top" title="云卷云舒">
+  <div class="card-body">
+    <h5 class="card-title">Germinating...</h5>
+    <p class="card-text">
+      Good Luck!
+    </p>
+  </div>
+</div>
