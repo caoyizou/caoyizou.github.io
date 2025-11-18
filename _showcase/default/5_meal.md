@@ -2,6 +2,7 @@
 show: true
 width: 4
 date: 2022-12-26 00:01:00 +1600
+height: 800px
 
 images:
 - src: assets/images/5_Misc/3098/MCL_2024_Aug4.jpg
